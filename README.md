@@ -1,2 +1,2 @@
 # Taobao
-Merchant Recommendation based one unsupervised learning
+Merchant Recommendation based on unsupervised learning
